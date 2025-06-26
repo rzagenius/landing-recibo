@@ -78,7 +78,7 @@ export default function LandingPage() {
                     initial={{ opacity: 0, y: -20 }}
                     animate={{ opacity: 1, y: 0 }}
                 >
-                    Adiós al caos de recibos 📄✨
+                    Adiós al caos de recibos📄✨
                 </motion.h1>
                 <p className="text-lg md:text-xl mb-6">
                     Tu app RecibotiA para escanear, organizar y olvidarte del desorden.
